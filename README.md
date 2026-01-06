@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm an Associate Professor of Criminology and Criminal Justice at the [University of Nebraska Omaha](https://www.unomaha.edu/college-of-public-affairs-and-community-service/criminology-and-criminal-justice/about-us/faculty-and-staff.php), where I teach graduate and undergraduate [classes](https://jnix.netlify.app/courses/) on policing and research methods. I also co-direct the [Violence Intervention and Policing Research (VIPR) Lab](https://viprlab.org). 
+I'm a Professor of Criminology and Criminal Justice at the [University of Nebraska at Omaha](https://www.unomaha.edu/college-of-public-affairs-and-community-service/criminology-and-criminal-justice/about-us/faculty-and-staff.php), where I teach graduate and undergraduate [classes](https://jnix.netlify.app/courses/) on policing and research methods. I also co-direct the [Violence Intervention and Policing Research (VIPR) Lab](https://viprlab.org). 
 
 My research centers on policing, but especially procedural justice and legitimacy, decision making, and shootings. For more information about what I'm currently up to, head over to [my website](https://jnix.netlify.app), where I post non-paywalled versions of my peer-reviewed research, teaching materials, and occasionally blog about stuff.
 
